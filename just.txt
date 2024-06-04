@@ -1,0 +1,8 @@
+I am just gonna keep ppushing until this becomes clearer and easier to comprehend
+<<<<<<< HEAD
+And i am trying to make another change, hopefully I will get it right this time
+I will definitely make the change, why not!
+=======
+Well you are sounding as if youve got any options
+Just a quick update on this file to enable me compare if what I have here will be different from whats on main branch
+
